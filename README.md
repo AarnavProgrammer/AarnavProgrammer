@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+# Moved
+
+➡️ New GitHub profile:  
+https://github.com/Aarnav-Git
+
+This account only exists to redirect visitors from old business cards and links.
+
 <!--
 **AarnavProgrammer/AarnavProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
